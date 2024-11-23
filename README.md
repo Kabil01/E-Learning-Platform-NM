@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/dea3bc90-aa3a-4b59-9bf3-4da67c55950a)# **E-Learning Platform Using MERN Stack**
 
 ---
 
